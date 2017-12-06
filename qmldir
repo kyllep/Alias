@@ -1,0 +1,17 @@
+main 1.0 main.qml
+singleton GameSettings 1.0 GameSettings.qml
+Card 1.0 Card.qml
+Pack 1.0 Pack.qml
+GamePlay 1.0 GamePlay.qml
+GameScores 1.0 GameScores.qml
+StatesController 1.0 StatesController.qml
+GuessResults 1.0 GuessResults.qml
+CardMaket 1.0 CardMaket.qml
+ImageBtn 1.0 ImageBtn.qml
+GuessVoteBtn 1.0 GuessVoteBtn.qml
+VoteDelegate 1.0 VoteDelegate.qml
+MenuWidget 1.0 MenuWidget.qml
+MneuButton 1.0 MneuButton.qml
+NewGameSettings 1.0 NewGameSettings.qml
+CommandNameManager 1.0 CommandNameManager.qml
+CammandDelegate 1.0 CammandDelegate.qml

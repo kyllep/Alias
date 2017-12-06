@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Card.qml</file>
+        <file>Pack.qml</file>
+        <file>GamePlay.qml</file>
+        <file>GameSettings.qml</file>
+        <file>qmldir</file>
+        <file>GameScores.qml</file>
+        <file>StatesController.qml</file>
+        <file>GuessResults.qml</file>
+        <file>CardMaket.qml</file>
+        <file>ImageBtn.qml</file>
+        <file>GuessVoteBtn.qml</file>
+        <file>VoteDelegate.qml</file>
+        <file>MenuWidget.qml</file>
+        <file>MneuButton.qml</file>
+        <file>NewGameSettings.qml</file>
+        <file>CommandNameManager.qml</file>
+        <file>CammandDelegate.qml</file>
+    </qresource>
+</RCC>

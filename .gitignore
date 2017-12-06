@@ -1,0 +1,10 @@
+
+android/local\.properties~
+
+*.pro.user
+
+android/local\.properties
+
+android/gradle\.properties~
+
+android/gradle\.properties
